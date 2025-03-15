@@ -1,0 +1,171 @@
+\contentsline {chapter}{前~~言}{i}{chapter*.1}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}有理数系}{1}{chapter.1}%
+\contentsline {section}{\numberline {第一节}自然数和零，分数及它们的运算}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}自然数和零，分数及它们的运算}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}自然数和零的运算性质}{4}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}乘方运算及指数运算律}{8}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}分数及其运算}{17}{subsection.1.1.4}%
+\contentsline {subsection}{习题1.1}{22}{section*.145}%
+\contentsline {section}{\numberline {第二节}有理数的意义}{25}{section.1.2}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}相反意义的量}{25}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}正数和负数、相反数}{25}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}有理数、数轴}{27}{subsection.1.2.3}%
+\contentsline {subsection}{习题1.2}{31}{section*.149}%
+\contentsline {section}{\numberline {第三节}有理数的运算}{34}{section.1.3}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}有理数的加法与减法}{34}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}加法}{34}{subsubsection.1.3.1.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}减法}{40}{subsubsection.1.3.1.2}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}代数和}{43}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}有理数的乘法与除法}{46}{subsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}乘法}{46}{subsubsection.1.3.3.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}除法}{51}{subsubsection.1.3.3.2}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}有理数的乘方}{54}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {五、\hspace {-1em}}有理数的混合运算}{58}{subsection.1.3.5}%
+\contentsline {subsection}{习题1.3}{60}{section*.300}%
+\contentsline {section}{\numberline {第四节}有理数系的基本性质}{67}{section.1.4}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}有理数运算的“通性”}{67}{subsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}加、减、乘(乘方)、除运算的封闭性}{67}{subsubsection.1.4.1.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}加法的交换律、结合律}{68}{subsubsection.1.4.1.2}%
+\contentsline {subsubsection}{\numberline {（三）\hspace {-1em}}乘法的交换律、结合律}{68}{subsubsection.1.4.1.3}%
+\contentsline {subsubsection}{\numberline {（四）\hspace {-1em}}乘法对于加法的分配律}{68}{subsubsection.1.4.1.4}%
+\contentsline {subsubsection}{\numberline {（五）\hspace {-1em}}相反数与减法}{69}{subsubsection.1.4.1.5}%
+\contentsline {subsubsection}{\numberline {（六）\hspace {-1em}}倒数与除法}{69}{subsubsection.1.4.1.6}%
+\contentsline {subsubsection}{\numberline {（七）\hspace {-1em}}数0与1的特性}{69}{subsubsection.1.4.1.7}%
+\contentsline {subsubsection}{\numberline {（八）\hspace {-1em}}指数运算律}{70}{subsubsection.1.4.1.8}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}有理数的大小顺序}{70}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}等式与不等式的基本性质}{74}{subsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}等式}{74}{subsubsection.1.4.3.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}不等式}{76}{subsubsection.1.4.3.2}%
+\contentsline {subsection}{习题1.4}{78}{section*.322}%
+\contentsline {section}{复习题一}{82}{section*.324}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}一次方程式}{85}{chapter.2}%
+\contentsline {section}{\numberline {第一节}算术解法与代数解法}{85}{section.2.1}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}两种解法的分析、对比}{85}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}未知数和方程式}{89}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}方程的解与解方程的原理}{91}{subsection.2.1.3}%
+\contentsline {subsection}{习题2.1}{94}{section*.371}%
+\contentsline {section}{\numberline {第二节}一元一次方程}{96}{section.2.2}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}一元一次方程}{96}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}一元一次方程的解法}{96}{subsection.2.2.2}%
+\contentsline {subsection}{习题2.2}{102}{section*.418}%
+\contentsline {section}{\numberline {第三节}一次方程组}{105}{section.2.3}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}二元一次方程}{105}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}方程组与方程组的解}{107}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}二元一次方程组的解法}{109}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}代入消元法}{109}{subsubsection.2.3.3.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}加减消元法}{112}{subsubsection.2.3.3.2}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}三元一次方程组及其解法}{116}{subsection.2.3.4}%
+\contentsline {subsection}{习题2.3}{119}{section*.422}%
+\contentsline {section}{\numberline {第四节}解应用问题}{122}{section.2.4}%
+\contentsline {subsection}{习题2.4}{131}{section*.423}%
+\contentsline {section}{复习题二}{136}{section*.425}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}一元二次方程}{142}{chapter.3}%
+\contentsline {section}{\numberline {第一节}平方与平方根}{142}{section.3.1}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}面积与平方}{142}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}平方根}{147}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}求一个数的平方根}{152}{subsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}开平方方法}{153}{subsubsection.3.1.3.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}平方根表}{156}{subsubsection.3.1.3.2}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}实数}{158}{subsection.3.1.4}%
+\contentsline {subsection}{习题3.1}{160}{section*.440}%
+\contentsline {section}{\numberline {第二节}平方根的运算}{161}{section.3.2}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}算术平方根的性质}{161}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}算术平方根的乘、除运算}{164}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}算术平方根的加、减运算}{168}{subsection.3.2.3}%
+\contentsline {subsection}{习题3.2}{171}{section*.473}%
+\contentsline {section}{\numberline {第三节}一元二次方程及其解法}{173}{section.3.3}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}一元二次方程}{173}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}特殊的一元二次方程的解法}{175}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}$ax^2=0$的解法}{175}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}$ax^2+c=0\tmspace +\thickmuskip {.2777em} (a\ne 0)$的解法}{175}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {（三）\hspace {-1em}}$ax^2+bx=0\tmspace +\thickmuskip {.2777em} (a\ne 0)$的解法}{178}{subsubsection.3.3.2.3}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}一般的一元二次方程的解法——配方法}{181}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}一元二次方程的求根公式}{187}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {五、\hspace {-1em}}一元二次方程根的判别式}{194}{subsection.3.3.5}%
+\contentsline {subsection}{习题3.3}{197}{section*.527}%
+\contentsline {section}{\numberline {第四节}解应用问题}{202}{section.3.4}%
+\contentsline {subsection}{习题3.4}{206}{section*.530}%
+\contentsline {section}{复习题三}{210}{section*.533}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}多项式的四则运算}{215}{chapter.4}%
+\contentsline {section}{\numberline {第一节}单项式与多项式}{215}{section.4.1}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}单项式}{215}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}多项式}{217}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}多项式的值}{221}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}多项式的恒等}{224}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {五、\hspace {-1em}}一元多项式的根}{227}{subsection.4.1.5}%
+\contentsline {subsection}{习题 4.1}{229}{section*.544}%
+\contentsline {section}{\numberline {第二节}多项式的加、减、乘法}{231}{section.4.2}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}多项式的加减法}{231}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}一元多项式的乘法}{235}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}多元多项式的乘法}{239}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}常用乘法公式}{242}{subsection.4.2.4}%
+\contentsline {subsection}{习题4.2}{248}{section*.582}%
+\contentsline {section}{\numberline {第三节}一元多项式的除法}{252}{section.4.3}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}单项式除法}{252}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}一元多项式的除法}{255}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}综合除法}{260}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}待定系数法求商式与余式}{264}{subsection.4.3.4}%
+\contentsline {subsection}{习题4.3}{267}{section*.583}%
+\contentsline {section}{复习题四}{270}{section*.585}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}因式分解与余式定理}{273}{chapter.5}%
+\contentsline {section}{\numberline {第一节}因式分解}{273}{section.5.1}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}因式与倍式}{273}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}因式分解}{275}{subsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}提取公因式法}{275}{subsubsection.5.1.2.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}分组分解法}{277}{subsubsection.5.1.2.2}%
+\contentsline {subsubsection}{\numberline {（三）\hspace {-1em}}乘法公式法分解因式}{278}{subsubsection.5.1.2.3}%
+\contentsline {subsubsection}{\numberline {（四）\hspace {-1em}}配方法分解二次三项式}{282}{subsubsection.5.1.2.4}%
+\contentsline {subsubsection}{\numberline {（五）\hspace {-1em}}视察法分解二次三项式}{284}{subsubsection.5.1.2.5}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}待定系数法分解因式}{289}{subsection.5.1.3}%
+\contentsline {subsection}{习题5.1}{291}{section*.590}%
+\contentsline {section}{\numberline {第二节}余式定理及其推论}{294}{section.5.2}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}余式定理}{294}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}余式定理的推论}{297}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}余式定理及其推论的应用}{304}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}根与系数的关系}{308}{subsection.5.2.4}%
+\contentsline {subsection}{习题5.2}{313}{section*.591}%
+\contentsline {section}{\numberline {第三节}辗转相除法}{315}{section.5.3}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}公因式与最高公因式}{315}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}辗转相除法求最大公约数}{317}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}辗转相除法求最高公因式}{321}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}公倍式与最低公倍式}{326}{subsection.5.3.4}%
+\contentsline {subsection}{习题5.3}{329}{section*.592}%
+\contentsline {section}{复习题五}{332}{section*.594}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}分式与根式}{335}{chapter.6}%
+\contentsline {section}{\numberline {第一节}分式与分式方程}{335}{section.6.1}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}分式与分式的基本性质}{335}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}分式的基本性质}{336}{subsubsection.6.1.1.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}约分}{336}{subsubsection.6.1.1.2}%
+\contentsline {subsubsection}{\numberline {（三）\hspace {-1em}}通分}{338}{subsubsection.6.1.1.3}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}分式的运算}{341}{subsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}分式的加减法}{341}{subsubsection.6.1.2.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}分式的乘法}{344}{subsubsection.6.1.2.2}%
+\contentsline {subsubsection}{\numberline {（三）\hspace {-1em}}分式的除法}{345}{subsubsection.6.1.2.3}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}分式方程}{347}{subsection.6.1.3}%
+\contentsline {subsection}{习题6.1}{354}{section*.595}%
+\contentsline {section}{\numberline {第二节}二次根式与根式方程}{357}{section.6.2}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}二次根式和二次根式的变形}{357}{subsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}因式的外移和内移}{359}{subsubsection.6.2.1.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}化去根号内的分母}{360}{subsubsection.6.2.1.2}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}最简二次根式与同类根式}{362}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {三、\hspace {-1em}}二次根式的运算}{365}{subsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}加法和减法法则}{365}{subsubsection.6.2.3.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}乘法和除法法则}{366}{subsubsection.6.2.3.2}%
+\contentsline {subsection}{\numberline {四、\hspace {-1em}}根式方程}{373}{subsection.6.2.4}%
+\contentsline {subsection}{习题6.2}{378}{section*.608}%
+\contentsline {section}{复习题六}{382}{section*.610}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}代数运算的初步应用}{385}{chapter.7}%
+\contentsline {section}{\numberline {第一节}求和公式}{385}{section.7.1}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}等差数列求和}{385}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}等比数列求和}{389}{subsection.7.1.2}%
+\contentsline {subsection}{习题7.1}{392}{section*.611}%
+\contentsline {section}{\numberline {第二节}待定系数法}{393}{section.7.2}%
+\contentsline {subsection}{\numberline {一、\hspace {-1em}}待定系数法及其根据}{393}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {二、\hspace {-1em}}待定系数法的应用}{395}{subsection.7.2.2}%
+\contentsline {subsubsection}{\numberline {（一）\hspace {-1em}}把多项式表示成另一个多项式的各次幂的形式}{396}{subsubsection.7.2.2.1}%
+\contentsline {subsubsection}{\numberline {（二）\hspace {-1em}}求多项式与求方程的解}{397}{subsubsection.7.2.2.2}%
+\contentsline {subsubsection}{\numberline {（三）\hspace {-1em}}把一个分式化为部分分式}{399}{subsubsection.7.2.2.3}%
+\contentsline {subsubsection}{\numberline {（四）\hspace {-1em}}求算术平方根$\sqrt {c+2\sqrt {b}}$}{404}{subsubsection.7.2.2.4}%
+\contentsline {subsubsection}{\numberline {（五）\hspace {-1em}}其它数列求和}{406}{subsubsection.7.2.2.5}%
+\contentsline {subsection}{习题7.2}{409}{section*.613}%
+\contentsline {section}{复习题七}{411}{section*.615}%
